@@ -15,6 +15,7 @@ Although Freda is not looking for onsite visiting students or interns before Fal
 2. Choose **one** task from the [available ones](#currently-available-tasks) and complete it following the guidelines. Please make sure to follow the instructions in the task description.
 Please read all instructions carefully and follow them strictly. \
 If you have questions, please open an issue in this repository. Freda and the CompLing lab members will respond as early as possible.
+Due to the large volume, Freda can not respond to emails regarding practice problems or internship requests.
 
 3. Submit your project report and code using [this form](https://forms.gle/HrCimoc2SRMBJzHF6). Freda and the CompLing lab members will manage to respond within a week. Please email Freda **only if you have not received a response after a week.**
 
