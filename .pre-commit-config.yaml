@@ -1,0 +1,9 @@
+# pre-commit run --all-files
+repos:
+-   repo: https://github.com/pycqa/flake8
+    rev: 3.7.9
+    hooks:
+    -   id: flake8
+        additional_dependencies: [
+            'flake8-docstrings==1.7.0',
+        ]
