@@ -178,3 +178,6 @@ main.pdf
 *.lol
 *.loa
 *.brf
+
+# solution file
+**/solution.py
