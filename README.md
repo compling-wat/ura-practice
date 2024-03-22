@@ -12,7 +12,15 @@ You are welcome to complete these tasks.
 Although Freda is not looking for onsite visiting students or interns before Fall 2024, she will have openings starting Fall 2024 through the [Vector Internship Program](https://vectorinstitute.ai/programs/internships/), the [Mitacs Globalink Program](https://www.mitacs.ca/our-programs/globalink-research-internship-students/), or direct admissions.
 
 ## How to Complete and Submit Your Work
-1. Clone this repository.
+1. Clone this repository and run the following command to install the required style-checking tools:
+    ```bash
+    pip install pre-commit
+    pre-commit install
+    ```
+
+    At the CL Lab, we follow the [Google Python style guide](https://google.github.io/styleguide/pyguide.html), excluding the 80-character-per-line rule (E501) to maintain the readability of code.
+    We use `flake8-docstrings` to check for format.
+    Your code should be committable after installing the above tools; alternatively, you may run `flake8 FILE_NAME` to check the style of a specific file.
 
 2. Choose **one** task from the [available ones](#currently-available-tasks) and complete it following the guidelines.
 Feel free to skip the background section if you are already familiar with the content, but please make sure to read all instructions carefully and follow them strictly. \
