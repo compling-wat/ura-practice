@@ -31,4 +31,4 @@ Due to the large volume, Freda can not respond to emails regarding practice prob
 3. Submit your project report and code using [this form](https://forms.gle/HrCimoc2SRMBJzHF6). Freda and the CL Lab members will manage to respond within a week. Please email Freda **only if you have not received a response after a week.**
 
 ## Currently Available Tasks
-1. Next Word Distribution
+1. Next Word Distribution: See task descriptions and instructions [here](tasks/01-next-word-distribution.pdf).
