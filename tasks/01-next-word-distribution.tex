@@ -22,7 +22,7 @@ In probabilistic terms, the model defines a probability distribution over sequen
 \begin{align*}
     P_\Theta(w_1, w_2, \ldots, w_n) = P_\Theta(w_1) \cdot \sum_{i=2}^n P_\Theta(w_i \mid w_1, \ldots, w_{i-1}),
 \end{align*}
-where $w_i$ is the $i$-th word in the sequence, and $\Theta$ refers the model parameters.
+where $w_i$ is the $i$-th word in the sequence, and $\Theta$ refers to model parameters.
 
 You might have heard of Chat-GPT or GPT-4.
 The core idea is quite simple: given a sequence of words (more precisely, subwords), the model predicts the next subword.
