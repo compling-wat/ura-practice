@@ -18,8 +18,8 @@ Although Freda is not looking for onsite visiting students or interns before Fal
     pre-commit install
     ```
 
-    At the CL Lab, we follow the [Google Python style guide](https://google.github.io/styleguide/pyguide.html), excluding the 80-character-per-line rule (E501) to maintain the readability of code.
-    We use `flake8-docstrings` to check for format.
+    At the CL Lab, we follow the [Google Python style guide](https://google.github.io/styleguide/pyguide.html) (excluding the 80-character-per-line rule; E501) to maintain the readability of code.
+    We use `flake8-docstrings` (see more [here](https://pypi.org/project/flake8-docstrings/)) to check for format.
     Your code should be committable after installing the above tools; alternatively, you may run `flake8 FILE_NAME` to check the style of a specific file.
 
 2. Choose **one** task from the [available ones](#currently-available-tasks) and complete it following the guidelines.
