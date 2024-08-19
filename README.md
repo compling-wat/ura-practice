@@ -1,4 +1,6 @@
-**We are not taking non-UW interns right now. We will update this page if the circumstance changes.**
+**Note: We are not taking non-UW interns right now. We will update this page if the circumstance changes.**
+
+---
 
 # CompLING Lab Internship Practice
 This repository contains a set of tasks to help you practice your coding skills.
