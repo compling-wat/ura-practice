@@ -1,4 +1,4 @@
-**Note: We are not taking non-UW interns right now. We will update this page if the circumstance changes.**
+**Note: We are not taking non-UW interns right now, except for the [Mitacs Globalink program](https://globalink.mitacs.ca/#/student/application/projects). We will update this page if the circumstance changes.**
 
 ---
 
