@@ -1,7 +1,3 @@
-**Note: We are not taking non-UW interns right now, except for the [Mitacs Globalink program](https://globalink.mitacs.ca/#/student/application/projects). We will update this page if the circumstance changes.**
-
----
-
 # CompLING Lab Internship Practice
 This repository contains a set of tasks to help you practice your coding skills.
 Each task is designed to help you get started with one specific research project with [Freda](https://cs.uwaterloo.ca/~fhs/) and the CompLING Lab.
