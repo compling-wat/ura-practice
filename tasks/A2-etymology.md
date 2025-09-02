@@ -1,4 +1,4 @@
-## Task 3: English Etymology
+## Task A2: Discussing English Etymology
 
 Historical linguistics is a subject studying diachronic language change, including changes in the history of a single language, or changes revealed in the comparison of related languages.
 
@@ -18,6 +18,9 @@ For each pair, the discussion should be within 500 words.
 1. peace, pay
 2. ward, guard
 3. much, multi
+
+### Follow-Up Idea Discussion
+Describe a potential research idea you would like to work with us, using computational methods. Please list the required resource and how to obtain them (e.g., collecting Wiktionary data with a web scraper, or using some existing dumps of Wiktionary, or using open-sourced or proprietary large language models).
 
 ### References
 
