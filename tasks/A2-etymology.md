@@ -20,7 +20,7 @@ For each pair, the discussion should be within 500 words.
 3. much, multi
 
 ### Follow-Up Idea Discussion
-Describe a potential research idea you would like to work with us, using computational methods. Please list the required resource and how to obtain them (e.g., collecting Wiktionary data with a web scraper, or using some existing dumps of Wiktionary, or using open-sourced or proprietary large language models).
+Describe a potential research idea you would like to work with us, which is built on top of this and uses computational methods. Please list the required resource and how to obtain them (e.g., collecting Wiktionary data with a web scraper, or using some existing dumps of Wiktionary, or using open-sourced or proprietary large language models).
 
 ### References
 

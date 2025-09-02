@@ -1,8 +1,15 @@
-## Task B: Independent Free Reading
+## Task B: Independent Reading and Discussion
 
 In this task, you are encouraged to engage in independent free reading and critical thinking.
-Choose a paper from the following list and answer the questions in the application form:
+Choose a paper from the following list and answer the questions in the application form.
 
+The questions are:
+
+a) Why did you choose this paper among all? In other words, what makes you interest in this paper?
+
+b) For the selected paper, what are the weaknesses (e.g., methodological or experimental issues, related questions that remain unanswered) of the work and how would you make an improvement?
+
+### Available Papers
 1. Distribution Prompting: Understanding the Expressivity of Language Models Through the Next-Token Distributions They Can Produce \
   https://arxiv.org/pdf/2505.12244
 
